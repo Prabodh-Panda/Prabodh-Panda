@@ -11,4 +11,4 @@ For the stats chart you can check [GitHub Readme Stats Repo](https://github.com/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabodh-panda" alt="Top Languages for Prabodh Panda" width="290">
 
 ### Watch a snake eat my GitHub Contributions 👀
-![snake gif](https://github.com/Prabodh-Panda/Prabodh-Panda/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Prabodh-Panda/Prabodh-Panda/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
